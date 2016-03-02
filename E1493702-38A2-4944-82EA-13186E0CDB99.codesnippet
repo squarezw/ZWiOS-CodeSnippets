@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sc_rbi</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>UIBarButtonItem *rightItem = [[UIBarButtonItem alloc]
+                              initWithTitle:&lt;#title#&gt;
+                              style:UIBarButtonItemStylePlain
+                              target:self
+                              action:@selector(&lt;#selector#&gt;)];
+self.navigationItem.rightBarButtonItem = rightItem;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E1493702-38A2-4944-82EA-13186E0CDB99</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>self.navigationItem.rightBarButtonItem</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Right Bar Button Item</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
